@@ -1,0 +1,14 @@
+# Ignore Shapefiles
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Ignore Zip files
+*.zip
+
+Wards_December_2011_FCB_EW_2022_429100127814979569/
+
+# Ignore Mac system files
+.DS_Store
